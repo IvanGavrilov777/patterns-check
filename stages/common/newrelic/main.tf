@@ -5,3 +5,4 @@ resource "null_resource" "screen_output" {
     EOT
   }
 }
+#c3
